@@ -3,5 +3,17 @@ We all subscribe to a lot of YouTube channels, but over time, they can fill up y
 
 With just one click, you can unsubscribe from all your channels and start fresh with a clean slate. 
 
-Big Credit for GPT4o❤️
+
+Steps
+1. Open YouTube Subscriptions Page: Navigate to your YouTube subscriptions page where all your subscribed channels are listed.
+
+Open Browser Console: ()
+
+Right-click on the page and select "Inspect" or press Ctrl+Shift+I (Windows/Linux) or Cmd+Option+I (Mac).
+Go to the "Console" tab.
+Copy and Paste the Script:
+
+Copy the entire script provided below.
+Paste it into the console and press Enter.
+Then say good by to all of them.
 
