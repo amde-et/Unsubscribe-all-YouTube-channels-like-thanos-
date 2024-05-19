@@ -1,2 +1,7 @@
 # Unsubscribe-all-YouTube-channels-JavaScript-
-The thing is , we subscribe a lot of  channels and after a time they will ruin of feed and also the YouTube recommendation algorithm. That is why me and my friend GPT3.5  build this so that you can get rid of them with just a click. 
+We all subscribe to a lot of YouTube channels, but over time, they can fill up your feed and mess with the recommendation algorithm. That's why we (you, me, and the amazing GPT-3.5) created this handy tool!
+
+With just one click, you can unsubscribe from all your channels and start fresh with a clean slate. 
+
+Big Credit for GPT4o❤️
+
